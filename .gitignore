@@ -3,3 +3,4 @@ dist
 .github
 .firebaserc
 firebase.json
+.firebase
